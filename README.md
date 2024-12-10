@@ -39,9 +39,5 @@ Push to IBM Cloud Foundry:
 - Configure the `manifest.yml` file
 - `ìbmcloud cf push`
 
-
-### For other Coursera learners viewing this repository:
-If you're a fellow learner currently working though the IBM Full Stack Capstone Project, and you're looking at my repository because you're stuck with something in your own project, feel free to fork or otherwise make use of anything you find here. However, I would appreciate if you could leave the repo a star in return! ;)
-
 #### Copyright
-This capstone project was built my Md Yeakub Bin Aziz! :)
+This capstone project was built by Md Yeakub Bin Aziz! :)
